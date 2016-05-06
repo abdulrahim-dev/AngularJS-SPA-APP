@@ -1,0 +1,129 @@
+﻿//colors
+$white: #fff;
+$color_persimmon_approx: #B7B7B7;
+$color_quill_gray_approx: #d4d4d4;
+$color_gallery_approx: #ededed;
+$color_star_dust_approx: #a1a1a1;
+$color_emerald_approx: #2ecc71;
+
+//urls
+$url_0: url(http://simpleicon.com/wp-content/uploads/multy-user.png);
+
+//@extend-elements
+//original selectors
+//.login .submit:hover, .login .submit:focus
+%extend_1 {
+	background: $color_persimmon_approx;
+	color: $white;
+	outline: 0;
+}
+
+
+.login {
+	position: relative;
+	top: 50%;
+	
+	background: $white;
+	//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+	border-radius: 4px;
+	.legend {
+		position: relative;
+		width: 100%;
+		display: block;
+		background: $color_persimmon_approx;
+		padding: 15px;
+		color: $white;
+		font-size: 20px;
+		&:after {
+			content: "";
+			background-image: $url_0;
+			background-size: 100px 100px;
+			background-repeat: no-repeat;
+			background-position: 152px -16px;
+			opacity: 0.06;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			position: absolute;
+		}
+	}
+	.input {
+		position: relative;
+		width: 90%;
+		margin: 15px auto;
+		span {
+			position: absolute;
+			display: block;
+			color: $color_quill_gray_approx;
+			left: 10px;
+			top: 8px;
+			font-size: 20px;
+		}
+		input {
+			width: 100%;
+			padding: 10px 5px 10px 40px;
+			display: block;
+			border: 1px solid $color_gallery_approx;
+			//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+			border-radius: 4px;
+			//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
+			transition: 0.2s ease-out;
+			color: $color_star_dust_approx;
+			&:focus {
+				padding: 10px 5px 10px 10px;
+				outline: 0;
+				border-color: $color_persimmon_approx;
+			}
+		}
+	}
+	.submit {
+		width: 45px;
+		height: 45px;
+		display: block;
+		margin: 0 auto -15px auto;
+		background: $white;
+		//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+		border-radius: 100%;
+		border: 1px solid $color_persimmon_approx;
+		color: $color_persimmon_approx;
+		font-size: 24px;
+		cursor: pointer;
+		//Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+		box-shadow: 0 0 0 7px $white;
+		//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
+		transition: 0.2s ease-out;
+		&:hover {
+			@extend %extend_1;
+		}
+		&:focus {
+			@extend %extend_1;
+		}
+	}
+	.feedback {
+		position: absolute;
+		bottom: -70px;
+		width: 100%;
+		text-align: center;
+		color: $white;
+		background: $color_emerald_approx;
+		padding: 10px 0;
+		font-size: 12px;
+		display: none;
+		opacity: 0;
+		&:before {
+			bottom: 100%;
+			left: 50%;
+			border: solid transparent;
+			content: "";
+			height: 0;
+			width: 0;
+			position: absolute;
+			pointer-events: none;
+			border-color: rgba(46, 204, 113, 0);
+			border-bottom-color: $color_emerald_approx;
+			border-width: 10px;
+			margin-left: -10px;
+		}
+	}
+}

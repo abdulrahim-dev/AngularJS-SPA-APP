@@ -1,0 +1,12 @@
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\bin\Debug\FirstApp.Business.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\bin\Debug\FirstApp.Business.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\bin\Debug\FirstApp.DataAccess.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\bin\Debug\FirstApp.DomainObjects.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\bin\Debug\FirstApp.ModelLibrary.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\bin\Debug\FirstApp.DataAccess.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\bin\Debug\FirstApp.DomainObjects.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\bin\Debug\FirstApp.ModelLibrary.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\obj\Debug\FirstApp.Business.csprojResolveAssemblyReference.cache
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\obj\Debug\FirstApp.Business.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\obj\Debug\FirstApp.Business.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.Business\bin\Debug\EntityFramework.dll

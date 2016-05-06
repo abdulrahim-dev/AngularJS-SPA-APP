@@ -1,0 +1,17 @@
+{
+  "name": "FirstAPP",
+  "private": true,
+  "description": "sample login app",
+  "homepage": "index.html",
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "angular": "~1.2.20",
+    "angular-route": "~1.2.20",
+    "angular-cookies": "~1.2.13",
+    "angular-ui-router": "0.2.15",
+    "bootstrap": "3.0.0"
+  },
+  "resolutions": {
+    "angular": "1.5.6-build.4771+sha.c95a3d8"
+  }
+}

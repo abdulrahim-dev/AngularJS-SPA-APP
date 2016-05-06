@@ -1,0 +1,1 @@
+﻿Controllers.controller('aboutController', ['$scope', function ($scope) { }]);

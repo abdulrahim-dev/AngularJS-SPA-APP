@@ -1,0 +1,10 @@
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DomainObjects\bin\Debug\FirstApp.DomainObjects.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DomainObjects\bin\Debug\FirstApp.DomainObjects.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DomainObjects\obj\Debug\FirstApp.DomainObjects.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DomainObjects\obj\Debug\FirstApp.DomainObjects.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DomainObjects\bin\Debug\FirstApp.DomainObjects.dll.config
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DomainObjects\bin\Debug\EntityFramework.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DomainObjects\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DomainObjects\bin\Debug\EntityFramework.xml
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DomainObjects\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DomainObjects\obj\Debug\FirstApp.DomainObjects.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.ModelLibrary\bin\Debug\FirstApp.ModelLibrary.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.ModelLibrary\bin\Debug\FirstApp.ModelLibrary.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.ModelLibrary\bin\Debug\FirstApp.DomainObjects.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.ModelLibrary\bin\Debug\FirstApp.DomainObjects.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.ModelLibrary\obj\Debug\FirstApp.ModelLibrary.csprojResolveAssemblyReference.cache
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.ModelLibrary\obj\Debug\FirstApp.ModelLibrary.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.ModelLibrary\obj\Debug\FirstApp.ModelLibrary.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.ModelLibrary\bin\Debug\EntityFramework.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.ModelLibrary\bin\Debug\EntityFramework.xml

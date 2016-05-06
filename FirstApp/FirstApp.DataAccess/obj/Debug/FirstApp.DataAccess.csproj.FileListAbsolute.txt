@@ -1,0 +1,9 @@
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DataAccess\bin\Debug\FirstApp.DataAccess.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DataAccess\bin\Debug\FirstApp.DataAccess.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DataAccess\bin\Debug\FirstApp.DomainObjects.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DataAccess\bin\Debug\FirstApp.ModelLibrary.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DataAccess\bin\Debug\FirstApp.DomainObjects.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DataAccess\bin\Debug\FirstApp.ModelLibrary.pdb
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DataAccess\obj\Debug\FirstApp.DataAccess.csprojResolveAssemblyReference.cache
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DataAccess\obj\Debug\FirstApp.DataAccess.dll
+D:\Samples\Angular study\FirstAPP\FirstApp\FirstApp.DataAccess\obj\Debug\FirstApp.DataAccess.pdb

@@ -1,0 +1,181 @@
+.login .submit:hover, .login .submit:focus, .register .submit:hover, .register .submit:focus {
+  background: #B7B7B7;
+  color: #fff;
+  outline: 0; }
+
+.login {
+  position: relative;
+  top: 50%;
+  background: #fff;
+  border-radius: 4px; }
+  .login .legend {
+    position: relative;
+    width: 100%;
+    display: block;
+    background: #B7B7B7;
+    padding: 15px;
+    color: #fff;
+    font-size: 20px; }
+    .login .legend:after {
+      content: "";
+      background-image: url(http://simpleicon.com/wp-content/uploads/multy-user.png);
+      background-size: 100px 100px;
+      background-repeat: no-repeat;
+      background-position: 152px -16px;
+      opacity: 0.06;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      position: absolute; }
+  .login .input {
+    position: relative;
+    width: 90%;
+    margin: 15px auto; }
+    .login .input span {
+      position: absolute;
+      display: block;
+      color: #d4d4d4;
+      left: 10px;
+      top: 8px;
+      font-size: 20px; }
+    .login .input input {
+      width: 100%;
+      padding: 10px 5px 10px 40px;
+      display: block;
+      border: 1px solid #ededed;
+      border-radius: 4px;
+      transition: 0.2s ease-out;
+      color: #a1a1a1; }
+      .login .input input:focus {
+        padding: 10px 5px 10px 10px;
+        outline: 0;
+        border-color: #B7B7B7; }
+  .login .submit {
+    width: 45px;
+    height: 45px;
+    display: block;
+    margin: 0 auto -15px auto;
+    background: #fff;
+    border-radius: 100%;
+    border: 1px solid #B7B7B7;
+    color: #B7B7B7;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0 0 0 7px #fff;
+    transition: 0.2s ease-out; }
+  .login .feedback {
+    position: absolute;
+    bottom: -70px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background: #2ecc71;
+    padding: 10px 0;
+    font-size: 12px;
+    display: none;
+    opacity: 0; }
+    .login .feedback:before {
+      bottom: 100%;
+      left: 50%;
+      border: solid transparent;
+      content: "";
+      height: 0;
+      width: 0;
+      position: absolute;
+      pointer-events: none;
+      border-color: rgba(46, 204, 113, 0);
+      border-bottom-color: #2ecc71;
+      border-width: 10px;
+      margin-left: -10px; }
+
+.login .submit:hover, .login .submit:focus, .register .submit:hover, .register .submit:focus {
+  background: #B7B7B7;
+  color: #fff;
+  outline: 0; }
+
+.register {
+  position: relative;
+  top: 50%;
+  background: #fff;
+  border-radius: 4px; }
+  .register .legend {
+    position: relative;
+    width: 100%;
+    display: block;
+    background: #B7B7B7;
+    padding: 15px;
+    color: #fff;
+    font-size: 20px; }
+    .register .legend:after {
+      content: "";
+      background-image: url(http://simpleicon.com/wp-content/uploads/multy-user.png);
+      background-size: 100px 100px;
+      background-repeat: no-repeat;
+      background-position: 152px -16px;
+      opacity: 0.06;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      position: absolute; }
+  .register .input {
+    position: relative;
+    width: 90%;
+    margin: 15px auto; }
+    .register .input span {
+      position: absolute;
+      display: block;
+      color: #d4d4d4;
+      left: 10px;
+      top: 8px;
+      font-size: 20px; }
+    .register .input input {
+      width: 100%;
+      padding: 10px 5px 10px 40px;
+      display: block;
+      border: 1px solid #ededed;
+      border-radius: 4px;
+      transition: 0.2s ease-out;
+      color: #a1a1a1; }
+      .register .input input:focus {
+        padding: 10px 5px 10px 10px;
+        outline: 0;
+        border-color: #B7B7B7; }
+  .register .submit {
+    width: 45px;
+    height: 45px;
+    display: block;
+    margin: 0 auto -15px auto;
+    background: #fff;
+    border-radius: 100%;
+    border: 1px solid #B7B7B7;
+    color: #B7B7B7;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0 0 0 7px #fff;
+    transition: 0.2s ease-out; }
+  .register .feedback {
+    position: absolute;
+    bottom: -70px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background: #2ecc71;
+    padding: 10px 0;
+    font-size: 12px;
+    display: none;
+    opacity: 0; }
+    .register .feedback:before {
+      bottom: 100%;
+      left: 50%;
+      border: solid transparent;
+      content: "";
+      height: 0;
+      width: 0;
+      position: absolute;
+      pointer-events: none;
+      border-color: rgba(46, 204, 113, 0);
+      border-bottom-color: #2ecc71;
+      border-width: 10px;
+      margin-left: -10px; }
